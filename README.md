@@ -60,7 +60,7 @@ Before using this script, ensure you have:
 ### Step 2: Generate App Password
 
 1. Go to [Google App Passwords](https://myaccount.google.com/apppasswords)
-2. Select **"Mail"** and your device
+2. Select **"Gmail"** and your device
 3. Click **"Generate"**
 4. You'll receive a 16-character password (e.g., `abcd efgh ijkl mnop`)
 5. **Save this password** - you'll need it for the script
